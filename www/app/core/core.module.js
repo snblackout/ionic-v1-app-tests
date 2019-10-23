@@ -5,8 +5,7 @@
             requires = [
                 'ionic',
                 'ngStorage',
-                'ngCordova',
-                'cordova-plugin-facebook4'
+                'ngCordova'
             ];
 
     angular.module(moduleName, requires);
