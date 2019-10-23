@@ -3,7 +3,7 @@
 
     var moduleName = 'app',
             requires = [
-                                
+
                 // app core
                 'app.core',
 
@@ -14,7 +14,10 @@
                 "app.home",
 
                 //Common Module
-                "app.common"
+                "app.common",
+
+                //ngCordova
+                "ngCordova"
 
             ];
 
