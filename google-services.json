@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:579061347481:android:01e905551c9c1f29d2f408",
         "android_client_info": {
-          "package_name": "com.sentaxsolutions.jukehero"
+          "package_name": "com.example.appname"
         }
       },
       "oauth_client": [
@@ -35,7 +35,7 @@
               "client_id": "579061347481-tn2lgjo7fk4u3k2l46fdhifuirv5i98c.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.sentaxsolutions.jukehero"
+                "bundle_id": "com.example.appname"
               }
             }
           ]

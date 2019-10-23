@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.sentaxsolutions.jukehero" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.example.appname" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <preference name="phonegap-version" value="cli-9.0.0" />
-  <name>JukeVision Test</name>
+  <name>Facebook Test</name>
   <description>
       An test project.
   </description>
-  <author email="support@jukevision.com" href="https://jukevision.com/">
-    JukeVision Test
+  <author email="email@example.com" href="https://example.com/">
+    Facebook Test
   </author>
   <content src="index.html" />
   <access origin="*" />
@@ -26,8 +26,8 @@
   <preference name="FadeSplashScreenDuration" value="2000"/>
 
   <plugin spec="https://github.com/snblackout/cordova-plugin-facebook4#cocoapod-workaround" source="git">
-    <variable name="APP_ID" value="536598883101342" />
-    <variable name="APP_NAME" value="JukeVision" />
+    <variable name="APP_ID" value="XX" />
+    <variable name="APP_NAME" value="XX" />
   </plugin>
 
   <!-- Ionic supports Android Jellybean and up -->
