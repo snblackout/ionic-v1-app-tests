@@ -14,10 +14,7 @@
                 "app.home",
 
                 //Common Module
-                "app.common",
-
-                //ngCordova
-                "ngCordova"
+                "app.common"
 
             ];
 

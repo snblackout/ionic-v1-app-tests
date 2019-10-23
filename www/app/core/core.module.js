@@ -4,7 +4,8 @@
     var moduleName = 'app.core',
             requires = [
                 'ionic',
-                'ngStorage'
+                'ngStorage',
+                'ngCordova'
             ];
 
     angular.module(moduleName, requires);
