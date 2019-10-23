@@ -49,9 +49,13 @@
             }
           });
 
+        } else {
+
+          alert('facebookConnectPlugin is not available');
+
         }
 
-      }
+      };
 
       $scope.facebookConnectLogin = function() {
 
