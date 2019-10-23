@@ -25,7 +25,7 @@
     <preference name="SplashScreenDelay" value="2000" />
     <preference name="FadeSplashScreenDuration" value="2000"/>
 
-    <plugin spec="https://github.com/snblackout/cordova-plugin-facebook4#c6872a4" source="git">
+    <plugin spec="https://github.com/snblackout/cordova-plugin-facebook4#cocoapod-workaround" source="git">
       <variable name="APP_ID" value="536598883101342" />
       <variable name="APP_NAME" value="JukeVision" />
     </plugin>
